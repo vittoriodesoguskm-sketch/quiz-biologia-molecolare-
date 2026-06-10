@@ -199,10 +199,10 @@ if st.session_state.mostra_risultato:
         st.rerun()
 
 
-elif st.session_state.index >= len(domande):
+elif st.session_state.index >= len(st.session_state.domande):
 
     punteggio = st.session_state.punteggio
-    totale = len(domande)
+    totale = len(st.session_state.domande)
 
     percentuale = int((punteggio / totale) * 100)
 
