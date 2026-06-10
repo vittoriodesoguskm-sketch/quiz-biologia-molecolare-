@@ -141,7 +141,7 @@ else:
             ):
                 selezionate.append(k)
 
-        if if "mostra_risultato" not in st.session_state:
+        if "mostra_risultato" not in st.session_state:
     st.session_state.mostra_risultato = False
 
 if st.button("Conferma risposta") and not st.session_state.mostra_risultato:
