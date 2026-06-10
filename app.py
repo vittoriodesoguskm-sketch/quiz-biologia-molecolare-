@@ -81,9 +81,24 @@ st.title("🧠 Quiz Universitario")
 # -------------------------
 if "domande" not in st.session_state:
     st.session_state.domande = []
+
+if "index" not in st.session_state:
     st.session_state.index = 0
+
+if "punteggio" not in st.session_state:
     st.session_state.punteggio = 0
+
+if "quiz_avviato" not in st.session_state:
     st.session_state.quiz_avviato = False
+
+if "mostra_risultato" not in st.session_state:
+    st.session_state.mostra_risultato = False
+
+if "risposta_corretta" not in st.session_state:
+    st.session_state.risposta_corretta = False
+
+if "corretta_testo" not in st.session_state:
+    st.session_state.corretta_testo = ""
 
 # -------------------------
 # MENU
