@@ -1,0 +1,384 @@
+Una “Pirimidina” è:
+A) Una base azotata a doppio anello, come Citosina, Timina, Uracile;
+B) Una base azotataa singolo anello come Adenina o Guanina;
+C) Una base azotata a singolo anello come Citosina, Timina, Uracile;
+CORRETTA: C
+===
+
+Un “Nucleoside” consiste in:
+A) Una Purina o una Pirimidina unita al Carbonio 1´di uno zucchero pentosio;
+B) Una Purina o una Pirimidina unita al Carbonio 7´di uno zucchero pentosio;
+C) Una Purina o una Pirimidina unita al Carbonio 9´di uno zucchero pentosio
+CORRETTA: A
+===
+
+Che tipo di legami si formano tra le basi azotate che si trovano sui filamenti opposti delle catene del DNA:
+A) Legami covalenti
+B) Legami idrogeno
+C) Legami fosfodiesterici
+CORRETTA: B
+===
+
+Quali interazioni molecolari sono implicate nella stabilizzazione della doppia elica del DNA? (2risposte corrette)
+A) Interazioni idrofobiche (impilamento delle basi).
+B) Legami covalenti
+C) Legami idrogeno tra le basi.
+D) Legami fosfodiesterici.
+CORRETTA: A,C
+===
+
+In una molecola di DNA a doppia elica, quale è il filamento complementare alla seguente
+A) 5' -ATCCGA-3'
+B) 3'-UCGGAU-5'
+C) 5'-TCGGAT-3'
+D) 3'-AGCCTA-5'
+E) 3 '-TCGGAT-5'
+CORRETTA: E
+===
+
+Nel 1953 Francis CRICK e James WATSON hanno scoperto …
+A) .. il DNA.
+B) .. la struttura a doppia elica del DNA.
+C) ... il codice genetico.
+D) ...che il materiale genetico è costituito da DNA
+CORRETTA: B
+===
+
+Quale superstruttura può essere assunta da un tratto di DNA a doppia elica che contiene una sequenza ripetuta e invertita?
+A) Struttura a tripla elica.
+B) Struttura cruciforme.
+C) Struttura circolare.
+D) Struttura Z.
+E) Struttura superavvolta.
+CORRETTA: B
+===
+
+Quante coppie di basi ci sono in una molecola di DNA B che compie 15 giri di doppia elica? (N.B: il valore è approssimato)
+A) 30
+B) 90
+C) 15
+D) 150
+E) 1500
+CORRETTA: D
+===
+
+Considerando una molecola di DNA duplex circolare superavvolta, qual'è la relazione che esiste tra le grandezze: "Twist" (Tw), "Writhe" (Wr) e "Linking number" (Lk)?
+A) Lk = Tw –Wr
+B) Lk = Tw · Wr
+C) Lk = Tw + Wr
+D) Tw = Lk + Wr
+E) Wr = Tw + Lk
+CORRETTA: C
+===
+
+Le topoisomerasi introducono il taglio su uno o entrambi i filamenti di DNAattraverso il legame...
+A) con una Tirosina
+B) con una Istidina
+C) con una Citosina
+CORRETTA: A
+===
+
+Da quali complessi è formato l'ottamero di istoni del nucleosoma?
+A) Un tetramero (H3·H4) e due dimeri H2A·H2B.
+B) Due tetrameri H1·H2·H3·H4.
+C) Due dimeri H3·H4, un dimero H2A2 e un dimero H2B2
+D) Un tetramero (H2A2·H2B2) e due dimeri H3·H4.
+CORRETTA: A
+===
+
+Una delle seguenti affermazioni a proposito della complessità tra gli organismi e struttura del genoma è ERRATA. Indicare QUALE.
+A) La quantità di DNA che costituisce il genoma è direttamente proporzionale alla complessità                 dell’organismo;
+B) Aumenta il numero medio di introni per gene;
+C) Aumenta la percentuale nel genoma di sequenze ripetute interdisperse;
+CORRETTA: A
+===
+
+Quale delle seguenti funzioni svolge la Primasi nella replicazione del DNA?
+A) Sintesi di innesco a RNA
+B) Sintesi di innesco a DNA
+C) Correzione di bozze
+CORRETTA: A
+===
+
+La replicazione del DNA negli eucarioti:
+A) E’ semiconservativa;
+B) Avviene attraverso l'attivazione di repliconi multipli;
+C) Avviene nella fase S (sintesi) del ciclo cellulare;
+D) Avviene nei ribosomi;
+E) A,B,C
+CORRETTA: E
+===
+
+Qual'è la principale polimerasi coinvolta nella replicazione del DNA in E.coli?
+A) DNA polimerasi III
+B) DNA polimerasi α
+C) DNA polimerasi γ
+D) DNA polimerasi II
+E) DNA polimerasi I
+CORRETTA: A
+===
+
+Quali dei seguenti enzimi di E.coli possiedono anche una attività esonucleasica 3'→5'?(3 risposte corrette)
+A) Primasi.
+B) DNA polimerasi III.
+C) Ligasi.
+D) DNA polimerasi I.
+E) DNA polimerasi II.
+F) Topoisomerasi.
+CORRETTA: B,D,E
+===
+
+Quale delle seguenti subunità della DNA polimerasi III diE.coli forma un anello intorno al DNA garantendo la processività dell'azione della polimerasi?
+A) Il nucleo catalitico dell'enzima
+B) La subunità τ
+C) Il complesso γ (caricatore della pinza)
+D) La subunità ß (pinza)
+E) La subunità α
+CORRETTA: D
+===
+
+Quanto è lunga l'origine di replicazione (OriC) del cromosoma diE.coli?
+A) 245 Ä
+B) 1400 bp
+C) 22 bp
+D) 245 bp
+E) 245 μM
+CORRETTA: D
+===
+
+Scegli, le risposte sottolineate che ritieni corrette: In E.coli, la bolla di denaturazione originatasi in corrispondenza di OriC ad opera del legame della proteinaDnaA|DnaB|DnaC, lega successivamente le proteineDnaA e DnaC|DnaB e DnaC|DnaA e DnaBformando il complesso diORC|pre-innesco. Il DNA a singolo filamento così generato viene stabilizzato dal legame delle proteineSSB|istoniche.
+DNA A/ DNA B E DNA C/ PRE INNESCO/ SSB
+
+A) DNAB/ DNAA e DNAC/ ORC
+B) DNAC/ DNAB e DNAC/ preinnesco
+C) DNAA/ DNAC e DNAA/ ORC
+D) DNAA/ DNAB e DNAC/ preinnesco
+
+CORRETTA: D
+===
+
+Quale proteina è coinvolta nella decatenazione dei cromosomi una volta terminata la replicazione in E.coli?
+A) DnaB
+B) DNA Polimerasi
+C) Topoisomerasi IV
+D) Tus
+CORRETTA: C
+===
+
+Qual'è il meccanismo di replicazione del DNA dei cromosomi eucariotici?
+A) Una origine bidirezionale su una molecola di DNA linerare.
+B) Una origine bidirezionale su una molecola di DNA circolare.
+C) Origini multiple bidirezionali su molecole di DNA lineare.
+D) Inizio dalle estremità di molecole di DNA lineari.
+E) Origini multiple unidirezionali su molecole di DNA lineare.
+CORRETTA: C
+===
+
+In genere il contenuto in DNA genomico delle cellule degli eucarioti superiori è proporzionato al numero di proteine che codifica.
+A) Vero
+B) Falso
+CORRETTA: B
+===
+
+Il DNA microsatellite (STR; Short Tandem Repeats):
+A) E’ costituito da ripetizioni di 2-5 nucleotidi sparse nel genoma;
+B) E’ costituito da ripetizioni di 2-5 nucleotidi localizzate nelle regioni telomeriche;
+C) Non è presente nel genoma;
+D) E’ una caratteristica esclusiva del DNA mitocondriale;
+CORRETTA: A
+===
+
+La Telomerasi
+A) Può essere considerata un tipo specializzato di Trascrittasi inversa.
+B) E' una sequenza di DNA ripetuto in tandem che si trova alle estremità dei cromosomi.
+C) Può essere considerata un tipo specializzato di RNA polimerasi.
+CORRETTA: A
+===
+
+Il  termine “replicazione del DNA semiconservativa” indica che...
+A) La molecola del DNA durante la replicazione si conserva per un tempo dimezzato
+B) In ogni cellula figlia la doppia elica di DNA avrà un filamento di nuova sintesi e uno parentale
+C) Ogni cellula figlia che possiede una doppiaelica di DNA avrà due nuovi filamenti
+CORRETTA: B
+===
+
+Per “genoma” si intende:
+A) Tutta la sequenza del DNA di un organismo, contenuta nei cromosomi
+B) La serie completa di RNA presenti in una cellula, tessuto o organismo;
+C) L’insieme dei geni nucleari
+CORRETTA: A
+===
+
+Un “gene interrotto” è :
+A) Un gene in cui la sequenza codificante non è continua a causa della presenza di introni;
+B) Un gene privo di esoni ed introni;
+C) Un gene composto soloda introni;
+CORRETTA: A
+===
+
+La riparazione del DNA è necessaria perché:
+A) Qualsiasi mutazione del DNA ha effetti sulla funzione del prodotto genico
+B) Alcune mutazioni possono essere utili, ma la maggior parte non conferisce un vantaggio e pertanto rappresentano più un danno che un’opportunità
+C) Il DNA è chimicamente instabile
+CORRETTA: B
+===
+
+Il meccanismo di riparazione del DNA per escissione nei procarioti......
+A) …corregge  il filamento parentale, che si distingue dal filamento figlio in base allo stato di metilazione
+B) ..corregge il filamento guida che si distingue dal filamento lento inbase allo stato di metilazione
+C) … rimuove il DNA danneggiato e risintetizza solo il tratto di DNA che costituisce ilfilamentodanneggiato;
+CORRETTA: C
+===
+
+In seguito a deaminazione spontanea la citosina viene trasformata in:
+A) Uracile
+B) Timina
+C) Guanina
+CORRETTA: A
+===
+
+Inseguito a deaminazione spontanea la citosina metilata viene trasformata in:
+A) Uracile
+B) Timina
+C) Guanina
+CORRETTA: B
+===
+
+L’elicasi è:
+A) Un enzima che catalizza l’aggiunta di gruppi metilici agli Istoni
+B) Un enzima che separa i filamenti di DNA, di solito mediante idrolisi di ATP
+C) Un enzima che catalizza la rimozione di gruppi metilici dagli istoni
+CORRETTA: B
+===
+
+L’operone lac:
+A) È costituito dai geni lacl, lacZ, lacY, lacA e lacD
+B) Non viene disattivato al 100% dal repressore Lac
+C) Permette a E. coli di sintetizzare il lattosio
+D) Si dissocia dal suo operatore in seguito al legame del lattosio al repressore Lac
+CORRETTA: B
+===
+
+L’attenuazione della trascrizione dell’operone trp:
+A) Riguarda la velocità con cui un ribosoma traduce oltre i codoni per il triptofano, che dipende dall’abbondanza di Trp-tRNATrp
+B) Deriva dal legame del repressore Trp al suo operatore
+C) È la trascrizione di tutto, tranne dell’ultimo gene dell’operone
+D) È dovuta alla formazione di una struttura a forcina nella sequenza di DNA dell’operone
+CORRETTA: A
+===
+
+Le ORF (Open Reading Frame -cornici di lettura aperte) sono:
+A) Sequenze introniche che codificano per una proteina
+B) Sequenze nucleotidiche che codificano per una proteina
+C) Sequenze palindromiche riconosciute da enzimi di restrizione
+D) Nessuna delle precedenti
+CORRETTA: B
+===
+
+Per trascrizione si intende:
+A) Il processo in cui viene prodotta una copia di DNA di un gene
+B) Il processo in cui viene prodotta una copia di RNA di un gene
+C) Il processo in cui viene sintetizzata una catena polipeptidica
+CORRETTA: B
+===
+
+Quale delle seguenti definizioni riguardo il promotore dei geni eucariotici è FALSA:
+A) E’ un insieme di elementi regolatori che agiscono in “cis” necessari per l’inizio della duplicazione del DNA;
+B) Il promotore dell’RNA polimerasi I consiste di un nucleo del promotore e di un elemento a monte del promotore (UPE)
+C) L’RNA polimerasi III ha due tipi di promotore.
+D) E’ una regione del DNA a cui si lega l’RNA polimerasi per iniziare la trascrizione
+CORRETTA: A
+===
+
+Quali sono le caratteristiche di un “enhancer”?
+A) Può attivare un promotore a distanza,in entrambi gli orientamenti, sia quando è posizionato a monte che a valle o all’interno dell’unità di trascrizione;
+B) E’ una sequenza di DNA che marca il confine tra regioni di eucromatina ed eterocromatina
+C) Regola la trascrizione solo dei geni “housekeeping”;
+D) E’un sito di legame per l’RNA polimerasi;
+E) Isola una sequenza intronica da una esonica;
+CORRETTA: A
+===
+
+La sequenza TATA box è:
+A) Una sequenza conservata, non codificante, localizzata circa 30 paia di basi a valle dell’inizio della trascrizione in molti promotori eucariotici riconosciuti dalla DNApolimerasi II
+B) Una sequenza conservata, codificante, localizzata circa 30 paia di basi a monte dell’inizio della trascrizione in molti promotori eucariotici riconosciuti dall’RNA polimerasi II
+C) Una sequenza conservata, non codificante, localizzata circa 30 paia di basi a monte dell’inizio della trascrizione in molti promotori eucariotici riconosciuti dalla RNApolimerasi II
+CORRETTA: C
+===
+
+Quali tra questi è un meccanismo che regola la trascrizione?
+A) Metilazione delle isole CpG
+B) Acetilazione delle isole CpG;
+C) Formazione di un complesso d’inizio e successivo reclutamento della DNA polimerasi III;
+CORRETTA: A
+===
+
+I coattivatori e corepressori trascrizionali:
+A) Agiscono come interruttori genici modificando l’accesso dell’apparato trascrizionale alle sequenze bersaglio;
+B) Riconosco e si legano a specifiche sequenze del DNA, aumentandone o diminuendone l’attività trascrizionale; -> non si legano a dna
+C) Usano idrolisi di ATP per modificare le interazioni DNA-RNA e cambiare lo stato della cromatina;
+D) Sono complessi multiproteici che alterano, direttamente o indirettamente, i processi di maturazione dell’mRNA;
+CORRETTA: A
+===
+
+La RNA polimerasi III è:
+A) Una polimerasi eucariotica che dirige la trascrizione di tRNA, di RNA 5S e di alcuni snRNA
+B) Una polimerasi eucariotica che dirige la trascrizione dell’RNA ribosomiale
+C) Una polimerasi eucariotica che dirige la trascrizione dell’mRNA, degli snoRNA, di alcuni snRNA e dei miRNA
+CORRETTA: A
+===
+
+Il TFIIH:
+A) E’ un fattore di trascrizione ubiquitario che comprendere le proteine TBP (TATA Binding Protein) e TAF (TBP-associated factor)
+B) Promuove il passaggio dalla fase d’inizio a quella di allungamento della catena nascente di RNA mediante la fosforilazione della coda CTD della RNA Polimerasi II
+C) Aumenta la superficie di DNA che interagisce con il complesso trascrizionale
+CORRETTA: B
+===
+
+Zinc finger” (dita di zinco):
+A) E’un dominio proteico tipico di molti fattori di trascrizione
+B) E’un dominio proteico tipico di molti fattori d’inizio coinvolti nel processo della traduzione
+C) E’un dominio proteico tipico delle snoRNP
+CORRETTA: A
+===
+
+Il fenomeno del “genomic imprinting”:
+A) E’ una modificazione epigenetica che avviene durante la gametogenesi maschile o femminile e che provoca l’inattivazione selettiva di geni dipendente dall’origine parentale;
+B) E’ una modifica del codice istonico
+C) E’ una modifica postraduzionale che consiste nella fosforilazione dell’istone H3
+CORRETTA: A
+===
+L’eterocromatina costitutiva è:
+A) Cromatina condensata e inattiva
+B) Cromatina condensata e attiva
+C) Cromatina aperta e accessibile alla RNA polimerasi e potenzialmente attiva.
+CORRETTA: A
+===
+
+Un istone è:
+A) Un componente di una serie di piccole proteine basiche cariche positivamente, legate al DNA per formare il nucleosoma.
+B) Un componente di una serie di piccole proteine cariche negativamente, legate al DNA per formare il nucleosoma
+C) Un componente di una serie di piccole proteine ricche di istidine, legate al DNA per formare il nucleosoma
+CORRETTA: A
+===
+
+Il rimodellamento cromatinico è necessario per:
+A) Promuovere la riparazione di regioni del DNA danneggiate
+B) Attivare una unità trascrizionale e promuovere la trascrizione
+C) Promuovere i processi di terminazione della trascrizione
+CORRETTA: B
+===
+
+Quale delle seguenti modificazioni chimiche avviene a carico degli istoni:
+A) Metilazione delle citosine
+B) Metilazione delle lisine
+C) Metilazione delle tirosine
+CORRETTA: B
+===
+
+Indicare quale tra le seguenti definizioni riguardo gli “insulator” è FALSA
+A) Blocca l’attività di un enhancer
+B) Isola una regione eucromatinica da una eterocromatinica
+C) Isola una sequenza intronica da una esonica
+CORRETTA: C
+===

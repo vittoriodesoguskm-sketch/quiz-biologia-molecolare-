@@ -1,0 +1,431 @@
+Cosa si intende per siti Accettori e Donatori di splicing? 
+A)Sequenze conservate situate in corrispondenza delle giunzioni esone-introne nel pre-mRNA)
+B)Specifiche sequenze di DNA)riconosciute dal complesso trascrizionale per attivare la trascrizione di un gene 
+C)Siti ipersensibili alla DNasi I 
+CORRETTA: A
+===
+Quale delle seguenti strutture NON è presente nell’mRNA? 
+A) TATA box; 
+B)Codone AUG; 
+C) Codone di Stop; 
+D) Segnale di poliadenilazione; 
+E) Cappuccio in 5’; 
+CORRETTA: A
+===
+Per spliceosoma si intende: 
+A) L’insieme di tutti i diversi trascritti che un organismo può produrre nel corso della sua vita
+B) La serie completa delle proteine codificate dal genoma
+C) Il complesso RNA-proteine che promuove l’escissione degli introni
+CORRETTA: C
+===
+Quale tra le seguenti informazioni riguardanti l’mRNA)è FALSA: 
+A) Gli mRNA)eucariotici vengono modificati a ciascuna estremità
+B) Una struttura chiamata cappuccio viene aggiunta alla estremità 5’
+C) La struttura chiamata cappuccio viene aggiunta alla estremità 3’
+D) Possiedono una coda di Poli-A
+CORRETTA: C  
+===
+Quale dei seguenti meccanismi NON fa parte della maturazione del premRNA)negli eucarioti? 
+A) Formazione del Cappuccio 
+B) Trascrizione inversa
+C) Aggiunta di una coda di Poli-A
+D) Rimozione degli introni
+CORRETTA: B  
+===
+L’enzima guanililtransferasi catalizza:
+A) L’aggiunta di una guanosina metilata legata all’estremità 3’ di un mRNA)
+B) L’aggiunta di una guanosina metilata legata all’estremità 5’ di un mRNA)
+C) L’aggiunta di una guanosina metilata legata alle estremità 3’ e 5’ di un mRNA)
+CORRETTA: B
+===
+
+Nelle cellule eucariotiche la regolazione dell’espressione genica: 
+A)Può avvenire a molti livelli tra cui la trascrizione, eventi post-trascrizionali e la traduzione; 
+B)Avviene esclusivamente durante la trascrizione; 
+C)Avviene esclusivamente nel citoplasma; 
+D)Avviene esclusivamente nel nucleo; 
+E)Non c’è regolazione perché nelle cellule eucariotiche a differenza dei procarioti l’espressione genica non si modifica nel tempo; 
+CORRETTA: A  
+===
+
+
+La regolazione post-trascrizionale dell’espressione genica può avvenire: 
+A)Tramite la modulazione della maturazione degli RNA)eterogenei nucleari; 
+B)Tramite la riduzione del numero dei tRNA)trascritti; 
+C)Solo nel caso di un aumento eccessivo del volume delle cellule; 
+D)In concomitanza con l’interazione tra ormone e recettore nella membrana cellulare; 
+E)Solo nei procarioti; 
+CORRETTA: A  
+===
+
+
+Quale tra queste definizioni è ERRATA)riguardo il meccanismo di silenziamento genico che utilizza brevi sequenza di RNA)(RNA)silencing o RNA)interferencE)? SAREBBE)TRASCRIZIONE
+A)Agiscono a livello post-traduzionale; 
+B)Riconoscono i loro bersagli attraverso appaiamento di sequenze complementari; 
+C)Legano complessi multiproteici che rappresentano gli effettori del silenziamento formando complessi ribonucleoproteici; 
+CORRETTA: A  
+===
+
+
+Lo splicing alternativo è: 
+A)Un tipo di splicing in cui il pre-mRNA)viene degradato
+B)Lo splicing dello stesso pre-mRNA)in due o più modi per produrre due o più mRNA)diversi che daranno origine a due o più proteine diverse
+C)Nessuna delle precedenti
+CORRETTA: B  
+===
+
+
+Quale tra le seguenti affermazioni riguardanti i miRNA)è FALSA: 
+A)Regolano l’espressione di geni cellulari endogeni
+B)Sono presenti in animali e piante
+C)Svolgono un ruolo essenziale in processi di differenziamento, sviluppo e proliferazione cellulare 
+D)Derivano da geni endogeni trascritti da RNA)polimerasi II
+E)Sono delle sequenze di RNA)palindromiche 
+CORRETTA: E  
+===
+
+
+Quale affermazione sui miRNA)NON ècorretta?
+A)Ogni miRNA)è specifico per un unico mRNA)bersaglio 
+B)Sono trascritti come RNA)precursori lunghi circa 70 nucleotidi 
+C)Il miRNA)precursore forma una forcina che viene processata dall’endonucleasi Drosha 
+D)Legano gli mRNA)per impedire la loro traduzione o per promuovere la loro degradazione 
+CORRETTA: A  
+===
+
+
+ 
+
+Quale definizione è ERRATA)?
+A)Alcuni tRNA)tollerano unerrore di appaiamento nella prima base;
+B)Alcuni aminoacidi hanno più di un tRNA;
+C)Alcuni tRNA)tollerano un errore di appaiamento nella terza base;
+CORRETTA: A  
+===
+
+
+Per traduzione si intende:
+A)Il processo in cui viene sintetizzatauna copia di DNA)di un gene
+BIl processo in cui viene prodotta una copia di RNA)di un gene
+C)Il processo in cui viene sintetizzata una catena polipeptidica
+CORRETTA: C
+===
+
+
+Durante il processo di traduzione il fattore IF3: 
+A)Lega la subunità minore del ribosoma e ne impedisce l’assemblaggio con la subunità maggiore 
+B)Lega la subunità maggiore del ribosoma e ne impedisce l’assemblaggio con la subunità minore 
+C)Lega le subunità minore e maggiore e favorisce la formazione del ribosoma 
+CORRETTA: A  
+===
+
+
+Nella biosintesi delle proteine, il complesso di inizio è formato da: 
+A)Subunità minore del ribosoma, mRNA, metionil-tRNA)e fattori di inizio; 
+B)Un complesso costituito da RNA)primer che abbia un’estremità 3’OH libera e una sequenza nucleotidica stampo; 
+C)Subunità maggiore del ribosoma, mRNA)e metionil-tRNA; 
+D)Promotore, RNA)polimerasi e ribonucleosidi trifosfati; 
+CORRETTA: A  
+===
+
+
+Quale delle seguenti affermazioni è corretta? 
+A)Il codone è una sequenza di 3 basi nucleotidiche nell’mRNA, complementare all'anticodone del t-RNA, che identifica un determinato aminoacido; 
+B)il codone è una tripletta di 3 nucleotidi nel t-RNA)in grado di appaiarsi con una tripletta complementare nell'm-RNA; 
+C)il codone è la sequenza di 3 basi azotate nel t-RNA)che codifica uno specifico aminoacido; 
+CORRETTA: A  
+===
+
+
+L’enzima RNasi catalizza: 
+A)La degradazione del DNA)a singola elica; 
+B)La degradazione delle proteine nucleari; 
+C)La degradazione dell’RNA; 
+CORRETTA: C
+===
+
+
+Gli enzimi di restrizione riconoscono: 
+A)Sequenze di DNA)altamente ripetute nel genoma 
+B)Brevi sequenze di DNA)palindromiche 
+C)Sequenze con struttura secondaria a “forcina” 
+CORRETTA: B
+===
+
+
+Per vettore di clonaggio si intende: 
+A)Plasmide, fago o cosmide nel quale può essere inserito del DNA)estraneo 
+B)Una molecola di DNA)ricombinante 
+C)Nessuna delle precedenti 
+CORRETTA: A  
+===
+
+
+Il clonaggio molecolare è una tecnica che consente di: 
+A)Inserire una specifica sequenza di DNA)in un opportuno vettore, allo scopo di ottenere la propagazione in numerose copie, attraverso l’amplificazione clonale delle cellule nelle quali il vettore è stato inserito
+B)Degradare una specifica sequenza di DNA)in un opportuno vettore
+C)Tutte le precedenti
+CORRETTA: A  
+===
+
+
+Le endonucleasi di restrizione:
+A)Riconoscono e tagliano il DNA)in corrispondenza di specifiche sequenze 
+B)Restringono la scelta degli organismi in cui introdurre il DNA)clonato 
+C)Producono sempre estremità coesive “sticky” 
+D)Includono le DNA)ligasi 
+CORRETTA: A  
+===
+
+
+Quale affermazione sui vettori di clonaggioè FALSA?
+A)Possono essere cromosomi artificiali di lievito o batteri 
+B)In genere hanno marcatori selezionabili e/o monitorabili 
+C)Possono essere plasmidi, piccoli DNA)circolari privi di sequenza oriC)
+D)Spesso contengono un polilinker 
+E)Tutte le precedenti 
+CORRETTA: C
+===
+
+
+Nella forma più semplice, la reazione a catena della polimerasi(PCR):
+A)È insensibile alla contaminazione 
+B)Richiede la trascrittasi inversa 
+C)Richiede due primer oligonucleotidici 
+D)Richiede che nel campione ci siano almeno 10.000 copie del DNA
+CORRETTA: C
+===
+
+
+Trascrittoma:
+A) Termine col quale si definisce tutto ciò che viene tradotto all’interno di una cellula
+B) Termine col quale si definisce tutto l’RNA)codificante che si trova all’interno di una cellula
+C) Termine col quale si definisce tutto l’RNA)trascritto che si trova all’interno di una cellula
+D) Termine col quale si definisce tutto ciò che viene trascritto e tradotto all’interno di una cellula
+CORRETTA: C
+===
+
+
+Quale delle seguenti affermazioni sul genoma degli organismi è FALSA: 
+A) Il genoma contiene l’informazione genetica per costruire e mantenere un organismo vivente 
+B) I genomi degli organismi cellulari sono composti da DNA)
+C) Il genoma è in grado di esprimere l’informazione contenuta senza l’attività di enzimi e proteine 
+D) I genomi eucariotici sono composti sia di DNA)nucleare che mitocondriale; 
+CORRETTA: C 
+===
+
+
+L’eterocromatina è definita come: 
+A) Cromatina composta da sequenze nucleotidiche eterogenee 
+B) Cromatina che contiene proteine eterogenee 
+C) Cromatina in una forma relativamente condensata contenente geni inattivi 
+D) Cromatina in una forma relativamente rilassata contenente geni attivi; 
+CORRETTA: C
+===
+
+
+Quale forma della cromatina contiene i geni che sono espressi? 
+A) Eucromatina 
+B) Eterocromatina facoltativa 
+C) Eterocromatina costitutiva 
+D) Tutte le precedenti; 
+CORRETTA: A  
+===
+
+
+Quale delle seguenti affermazioni descrive la riparazione del DNA)per escissione nucleotidica? 
+A) Una regione di DNA)a doppio filamento contenente i nucleotidi danneggiati viene rimossa e sostituita da nuovo DNA)
+B) Un singolo nucleotide danneggiato viene rimosso e sostituito con un nuovo nucleotide 
+C) Una singola base danneggiata viene rimossa e sostituita con una nuova base 
+D) Una regione di DNA)a singolo filamento contenente i nucleotidi danneggiati viene rimossa e sostituita da nuovo DNA; 
+CORRETTA: D
+===
+
+
+Per mutazione frameshift si intende: 
+A) Mutazione che non causa un cambiamento evidenziabile in un organismo 
+B) Delezione o inserzione di una o più basi nella regione codificante di un gene, che cambia il quadro di lettura del corrispondente mRNA)
+C) Mutazione che inverte gli effetti di una mutazione nello stesso gene o in un altro 
+D) Delezione di una sola base nella regione codificante di un gene, che cambia il quadro di lettura del corrispondente mRNA)
+CORRETTA: B
+===
+
+
+Quale tipo di legame sintetizza la DNA)ligasi? 
+A) I legami idrogeno tra le basi 
+B) I legami fosfodiesterici tra i nucleotidi 
+C) I legami tra le basi e lo zucchero deossiribosi0 
+D) I legami peptidici tra gli amminoacidi; 
+CORRETTA: B
+===
+
+
+Un “Nucleoside” consiste di: 
+A) Una Purina o una Pirimidina unita al carbonio 1 ́di uno zucchero pentosio 
+B) Una Purina o una Pirimidina unita al carbonio 5 ́di uno zucchero pentosio 
+C) Una Purina o una Pirimidina unita al carbonio 7 ́di uno zucchero pentosio 
+D) Una Purina o una Pirimidina unita al carbonio 9 ́di uno zucchero pentosio 
+CORRETTA: A  
+===
+
+
+La denaturazione del DNA: 
+A) Porta all’idrolisi dei legami fosfodiesterici, liberando singoli nucleotidi 
+B) Distrugge la struttura della doppia elica, lasciando intatte le singole catene polinucleotidiche 
+C) Porta alla frammentazione della molecola, generando segmenti di doppia elica più corti 
+D) Porta al distacco delle basi azotate dallo scheletro dei desossiribofosfati; 
+CORRETTA: B
+===
+
+
+La temperatura di melting del DNA: 
+A) Aumenta quanto più elevata è la percentuale di GC)nella sequenza 
+B) Aumenta in presenza di reagenti che possono formare legami H con i nucleotidi (urea, formammidE) 
+C) Aumenta in presenza di reagenti che aumentano la solubilità delle basi (metanolo) o distruggono il rivestimento di H2O indebolendo le interazioni idrofobiche 
+D) Aumenta quanto più elevata è la percentuale di AT nella sequenza 
+CORRETTA: A  
+===
+
+
+La temperatura di melting del DNA: Nel compito: 
+A) Aumenta quanto più elevata è la percentuale di GT nella sequenza 
+B) Aumenta in presenza di reagenti che aumentano la solubilità delle basi (metanolo) o distruggono il rivestimento di H2O indebolendo le interazioni idrofobiche 
+C) definisce la temperatura per separare il 70% dei legami che uniscono le basi 
+D) diminuisce in presenza di reagenti che possono formare legami H con i nucleotidi (urea, formammidE) 
+CORRETTA: D  
+===
+
+
+Una delle seguenti affermazioni sull’ibridazione del DNA)è ERRATA. Quale? 
+A) L’ibridazione avviene quando i due filamenti complementari di DNA)separati per denaturazione si riappaiano per formare una doppia elica 
+B) L’ibridazione avviene quando una molecola di DNA)e una di RNA)formano una struttura a doppia elica 
+C) L’ibridazione avviene tra due molecole di DNA)con sequenza nucleotidica complementare 
+D) L’ibridazione avviene tra una molecola di DNA)e una sonda oligonucleotidica 
+CORRETTA: A  
+===
+
+
+La stabilità termodinamica della doppia elica è influenzata da: 
+A) Legami idrogeno tra le basi azotate 
+B) L’impilamento idrofobico delle basi 
+C) pH e temperatura della soluzione in cui si trova il DNA)
+D) Tutte le precedenti; 
+CORRETTA: D  
+===
+
+
+Una delle seguenti affermazioni è ERRATA. Indicare QUALE. 
+All’aumentare della complessità di un organismo: 
+A) La quantità di DNA)che costituisce il genoma è direttamente proporzionale alla complessità dell’organismo 
+B) Aumenta il numero medio di introni per gene 
+C) Aumenta la percentuale nel genoma di sequenze ripetute intersperse 
+D) Aumenta il numero di geni interrotti; 
+CORRETTA: A  
+===
+
+
+Un “Introne” è: 
+A) Un segmento di DNA)che è trascritto, ma successivamente rimosso dall’interno del trascritto primario 
+B) Un segmento di DNA, composto da una sequenza ricca in guanina, posto all’estremità del cromosoma che viene trascritto ma non tradotto 
+C) Un segmento di DNA)composto da sequenze consenso poste all’interno dell’unità di trascrizione che viene trascritto ma non tradotto; 
+D) Un segmento di DNA)localizzato nella regione promotrice di un gene; 
+CORRETTA: A  
+===
+
+
+Un “gene interrotto” è: 
+A) Un gene in cui la sequenza codificante non è continua a causa della presenza di introni 
+B) Un gene privo di esoni ed introni 
+C) Un gene composto solo da introni 
+D) Un gene in cui la presenza di una mutazione puntiforme genera un codone di stop prematuro 
+CORRETTA: A  
+===
+
+
+Le ORF (cornici di lettura apertE) sono: 
+A) Sequenze introniche che codificano per una proteina 
+B) Sequenze nucleotidiche che codificano per una proteina 
+C) Sequenze palindromiche riconosciute da enzimi di restrizione 
+D) Nessuna delle precedenti; 
+CORRETTA: B
+===
+
+
+Cos’è una ORF? 
+A) Tutti i nucleotidi di un gene che sono trascritti in un mRNA)
+B) I nucleotidi di un gene che costituiscono i codoni che specificano gli amminoacidi 
+C) I nucleotidi di una molecola di mRNA)prima della rimozione degli introni 
+D) La sequenza amminoacidica di un polipeptide; 
+CORRETTA: B  
+===
+
+
+Quale delle seguenti affermazioni riguardanti il completamento della sequenza del genoma umano descritta nel 2000 è FALSA? 
+A) Soltanto il 90% del genoma era stato sequenziato 
+B) Le sequenze genomiche pubblicate nel 2000 rappresentavano una prima bozza della sequenza 
+C) Il genoma sequenziato era diploide 
+D) Una quantità sostanziale di eterocromatina costitutiva non era stata sequenziata; 
+CORRETTA: C  
+===
+
+
+Qual è la strategia utilizzata per il sequenziamento gerarchico (clone by clonE)? Indicare la risposta ERRATA. 
+A) La creazione di librerie di cloni ordinati e mappati su ciascun cromosoma 
+B) Il sequenziamento delle librerie 
+C) L’assemblaggio di sequenze contigue con estremità sovrapponibili 
+D) Il sequenziamento casuale dell’intero genoma; 
+CORRETTA: D  
+===
+
+
+Quale delle seguenti affermazioni sulla Genomica comparativa è ERRATA: 
+A) E’ l’analisi comparata di genomi di specie diverse 
+B) E’ uno strumento per lo studio dell’evoluzione e della funzione dei geni umani 
+C) E’ lo studio completo di tutti i geni che costituiscono il genoma di un organismo 
+D) Si basa sullo studio di geni ortologhi di altri organismi talvolta molto distanti dal punto di vista evolutivo 
+CORRETTA: C  
+===
+
+
+Quali sono i tempi e i costi minimi per il sequenziamento di un genoma completo? 
+A) 24 ore, meno di 3000 dollari 
+B) Una settimana, 30000 dollari 
+C) Un mese, 10000 dollari 
+D) 24 ore, più di 30000 
+CORRETTA: A  
+===
+
+
+Gli enzimi di restrizione riconoscono: 
+A) Sequenze di DNA)altamente ripetute nel genoma 
+B) Brevi sequenze di DNA)palindromiche 
+C) Sequenze con struttura secondaria a “forcina” 
+D) Brevi sequenze di RNA)palindromiche 
+CORRETTA: B 
+===
+
+
+Che tecnica si utilizza per separare i frammenti di DNA)di peso molecolare diverso ottenuti in seguito alla digestione con un enzima di restrizione? 
+A) Il sequenziamento del DNA)
+B) L’elettroforesi su gel 
+C) Il clonaggio 
+D) La PCR; 
+CORRETTA: B 
+===
+
+
+Il Southern blotting è una tecnica utilizzata per: 
+A) La visualizzazione di proteine a basso peso molecolare per mezzo di sonde radioattive 
+B) Permettere la separazione per cromatografia a scambio ionico di frammenti di DNA)
+C) Permettere l’identificazione di delezioni del DNA)
+D) Permettere l’identificazione di mutazioni puntiformi del DNA)
+CORRETTA: C  
+===
+
+
+Una sonda molecolare è: 
+A) Un frammento noto di DNA)o di RNA)(NON DUPLEX) marcato usato in un esperimento di ibridazione molecolare per identificare molecole specifiche di DNA)o RNA)nelle quali è presente una sequenza complementare alla sonda stessa 
+B) Un frammento noto di DNA)o di RNA)duplex marcato usato in un esperimento di ibridazione molecolare per identificare molecole specifiche di DNA)o RNA)nelle quali è presente una sequenza complementare alla sonda stessa 
+C) Un frammento noto di DNA)marcato e legato a delle proteine basiche usato in un esperimento di ibridazione molecolare per identificare molecole specifiche di DNA)o RNA)nelle quali è presente una sequenza complementare alla sonda stessa; 
+D) Tutte le precedenti 
+CORRETTA: A  

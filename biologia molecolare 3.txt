@@ -1,0 +1,359 @@
+Per vettore di clonazione si intende:
+A) Plasmide, fago o cosmide nel quale viene inserito DNA estraneo per la clonazione
+B) Una molecola di RNA ricombinante
+C) Una cellula batterica utilizzata per la clonazione di un plasmide ricombinante
+D) Nessuna delle precedenti
+CORRETTA: A
+===
+Il clonaggio molecolare è una tecnica che consente di:
+A) Inserire una specifica sequenza di DNA in un opportuno vettore, allo scopo di ottenere la propagazione in numerose copie, attraverso l’amplificazione clonale delle cellule nelle quali il vettore è stato inserito
+B) Degradare una specifica sequenza di DNA in un opportuno vettore
+C) Inserire una proteina in un vettore allo scopo di ottenere la propagazione in numerose copie, attraverso l’amplificazione clonale delle cellule nelle quali il vettore è stato inserito
+D) Tutte le precedenti;
+CORRETTA: A
+===
+Cosa è una libreria genomica?
+A) Una collezione di molecole ricombinanti i cui inserti contengono nell’insieme tutti i geni di un organismo
+B) Una collezione di molecole ricombinanti i cui inserti contengono nell’insieme l’intero genoma di un organismo
+C) Una collezione di molecole ricombinanti i cui inserti esprimono tutti i geni di un organismo
+D) Una collezione di molecole ricombinanti che sono state sequenziate;
+CORRETTA: B
+===
+Quali di queste affermazioni riguardo agli RFLP è ERRATA?
+A) Sono polimorfismi di lunghezza di frammenti di restrizione
+B) Vengono studiati digerendo il DNA con endonucleasi di restrizione
+C) Sono polimorfismi di numero (multiallelici)
+D) Hanno un’ereditarietà di tipo mendeliano
+CORRETTA: C
+===
+La selezione delle colonie batteriche contenenti DNA ricombinante:
+A) E’ eseguita per individuare le colonie positive alla trasformazione
+B) Può essere eseguita utilizzando sonde di DNA marcate con un isotopo radioattivo
+C) Può essere eseguita facendo crescere le colonie batteriche in un mezzo selettivo che contiene un antibiotico e un composto cromogeno incolore chiamato X-gal
+D) Tutte le precedenti
+CORRETTA: D
+===
+Un vettore di espressione è:
+A) Un vettore di clonaggio che contiene i segnali per la sintesi delle proteine batteriche
+B) Un vettore di clonaggio che contiene i segnali di trascrizione e di traduzione necessari per l’espressione di un gene clonato
+C) Un vettore di clonaggio che contiene i segnali di trascrizione necessari per l’espressione di un gene clonato
+D) Un vettore di clonaggio che contiene i segnali di trascrizione e di traduzione necessari per l’espressione del DNA batterico
+CORRETTA: C
+===
+Quali dei seguenti marcatori genetici è presente in numero maggiore all’interno del genoma umano?
+A) Minisatelliti
+B) Polimorfismi di singoli nucleotidi (SNP)
+C) Microsatelliti
+D) Tutti i precedenti;
+CORRETTA: B
+===
+A quale tipo di sequenze ripetute da origine lo scivolamento durante la replicazione?
+A) Le CNV
+B) I retroposoni
+C) I microsatelliti
+D) I trasposoni a DNA;
+CORRETTA: C
+===
+I “Minisatelliti” (VNTR, Variable Number of Tandem Repeats) sono:
+A) Ripetizioni in tandem di 10-50 bp (base pairs) disperse nel genoma
+B) Ripetizioni in tandem di 2-5 bp (base pairs) disperse nel genoma
+C) Ripetizioni in tandem di 100-150 bp (base pairs) localizzate nelle regioni centromeriche
+D) Ripetizioni in tandem di 100-150 bp (base pairs) localizzate nelle regioni telomeriche;
+CORRETTA: A
+===
+Per quali applicazioni possono essere utilizzati gli STR nella medicina di laboratorio?
+A) Analisi di linkage per mappaggio geni-malattia
+B) Analisi forensi per la definizione di impronte genetiche individuali
+C) Diagnosi prenatale: esclusione di contaminazione da parte di DNA materno nel DNA estratto dai villi coriali
+D) Tutte le precedenti;
+CORRETTA: D
+===
+Tra le seguenti caratteristiche, UNA SOLA rappresenta il motivo per cui i microsatelliti (STR) possono essere utilizzati per l’identificazione personale (DNA fingerprinting). Indicare quale:
+A) Sono sequenze altamente ripetute
+B) La sequenza ripetuta è costituita da poche basi (2-5)
+C) I blocchi di ripetizioni di queste sequenze vanno incontro a mutazioni con elevata frequenza
+D) Sono polimorfismi multiallelici con una marcata eterozigosità;
+CORRETTA: D
+===
+Quali delle seguenti affermazioni sull’analisi di linkage è ERRATA:
+A) Tendenza di due caratteri a segregare indipendentemente
+B) Tendenza di due caratteri a rimanere associati piuttosto che segregare indipendentemente
+C) Può essere eseguita attraverso lo studio dei microsatelliti del DNA
+D) Può essere utilizzata per la diagnosi di malattie genetiche;
+CORRETTA: A
+===
+Quale delle seguenti affermazioni sulle CNV è CORRETTA?
+A) Sono varianti strutturali che non comportano un cambiamento di dose;
+B) Coinvolgono segmenti di lunghezza <1kb
+C) Sono le varianti meno comuni del genoma umano
+D) Sono varianti strutturali che comportano un cambiamento di dose;
+CORRETTA: D
+===
+Le sequenze LINE sono sequenze del DNA mediamente ripetute nel genoma. Quale delle seguenti affermazioni è ERRATA?
+A) Sono lunghe 6-7 kb
+B) Sono chiamate anche ALU families
+C) Sono elementi trasponibili
+D) Sono le più lunghe sequenze non codificanti conosciute;
+CORRETTA: B
+===
+Le sequenze SINE sono sequenze del DNA mediamente ripetute nel genoma. Quale delle seguenti affermazioni è CORRETTA?
+A) Sono lunghe circa 500 bp
+B) Nell’uomo sono presenti 900000 copie sparse nel genoma
+C) Sono lunghe circa 300 bp
+D) Sono localizzate nella regione centromerica di tutti i cromosomi;
+CORRETTA: C
+===
+Attraverso quali delle seguenti tecniche è possibile analizzare i polimorfismi a singolo nucleotide (SNP)?
+A) Sequenziamento del DNA
+B) Nanotecnologie (DNA microchip)
+C) Digestione con enzimi di restrizione
+D) Tutte le precedenti;
+CORRETTA: D
+===
+Gli studi di GWAS hanno consentito di:
+A) Individuare geni coinvolti nell’insorgenza di patologie complesse
+B) individuare geni che codificano per il sito d’azione di farmaci
+C) identificare i pathway responsabili dell’insorgenza di alcune patologie
+D) Tutte le precedenti;
+CORRETTA: D
+===
+Quale affermazione sulla farmacogenetica è FALSA?
+A) È lo studio della variabilità interindividuale della risposta ad un farmaco fattori genetici ereditari dovuta a fattori genetici ereditari
+B) La risposta individuale ai farmaci può essere dovuta a variazioni nella sequenza nucleotidica di geni coinvolti nella farmacodinamica ma NON nella farmacocinetica -> FALSOOO
+C) Il 25-30% dei farmaci è metabolizzato da CYP2D6
+D) L’aumentato metabolismo di un farmaco può essere determinato dalla duplicazione del gene CYP2D6;
+CORRETTA: B
+===
+Quale affermazione sulla farmacogenetica è FALSA?
+A) La presenza dell’allele HLA-B* 5701 determina l’insorgenza di ipersensibilità in pazienti sottoposti a trattamento con abacavir
+B) Il dosaggio del warfarin è influenzato dalla presenza di polimorfismi nei geni VKORC1 E CYP2C9
+C) La presenza di ripetizioni TA nel promotore del gene UGT1A1 ne influenza l’espressione e causa alterazioni nel metabolismo dell’irinotecan
+D) Il tamoxifene è un modulatore selettivo del recettore EGFR utilizzato nella terapia contro il tumore al seno -> FALSOOO
+CORRETTA: D
+===
+L’analisi genetica degli SNP può essere effettuata attraverso “Chip Array”, in che cosa consiste questo sistema?
+A) Il sistema si basa sulla reazione di ibridizzazione allele specifica tra la sequenza del gene del paziente in esame (generata mediante PCR) e sonde molecolari, che rappresentano l’allele normale e quello mutato, che vengono ancorate su una superficie solida di pochi centimetri quadrati di silicio
+B) Il sistema si basa sulla reazione di ibridizzazione allele specifica tra la sequenza del gene del paziente in esame (generata mediante PCR) e anticorpi che vengono ancorati ad una superficie solida di pochi centimetri quadrati di silicio
+C) Il sistema si basa sulla reazione di ibridizzazione allele specifica tra la sequenza dell’RNA del paziente in esame e sonde molecolari che rappresentano l’allele normale e quello mutato le quali vengono ancorate una superficie solida di pochi centimetri quadrati di silicio
+D) Il sistema si basa sulla reazione di ibridizzazione allele specifica tra la sequenza del gene del paziente in esame (generata mediante PCR) e sonde molecolari, che rappresentano l’allele normale e quello mutato, che vengono ancorate su una membrana di nylon.
+CORRETTA: A
+===
+Come vengono marcati i diversi nucleotidi (A, C, G o T) in una reazione di sequenziamento capillare a terminazione di catena?
+A) I primer sono marcati con molecole fluorescenti
+B) I diversi dideossinucleotidi sono marcati ciascuno con un segnale fluorescente differente
+C) I diversi deossinucleotidi sono marcati ciascuno con un segnale fluorescente differente
+D) I diversi prodotti della sequenza vengono trattati con anticorpi che riconoscono i diversi dideossinucleotidi;
+CORRETTA: B
+===
+Quali dei seguenti reagenti NON viene utilizzato per eseguire l’analisi mutazionale attraverso la tecnica della Reverse Dot Blot?
+A) Un deossinucleotide marcato con biotina
+B) Sonde molecolari che riconoscono l’allele normale e quello mutato
+C) Un dideossinucleotide marcato con biotina
+D) Il complesso streptavidina-fosfatasi alcalina
+CORRETTA: C
+===
+La Polymerase Chain Reaction PCR è:
+A) Il processo di replicazione del DNA che avviene all’interno della cellula ad opera della DNA polimerasi
+B) Una tecnica che permette d’identificare solo polimorfismi del DNA
+C) Una tecnica che consente di determinare la sequenza nucleotidica di un segmanto di DNA
+D) Una tecnica che consente di amplificare in vitro un segmento di DNA creandone milioni di copie
+CORRETTA: D
+===
+Quale delle seguenti affermazioni sulla Next Generation Sequencing è FALSA?
+A) L’amplificazione delle librerie di DNA può avvenire attraverso la PCR in emulsione o mediante bridge amplification
+B) Consente di ottenere la sequenza di interi genomi o di specifiche regioni target del genoma in tempi rapidi
+C) tecnologia che può essere utilizzata per studi di trascrittomia
+D) nessuna delle precedenti.
+CORRETTA: D,D
+===
+Una reazione di sequenziamento automatizzato di Sanger prevede l’utilizzo di specifici reagenti. Quale delle seguenti combinazioni è corretta?
+A) Deossinucleosidi trifosfati - Dideossinucleosidi trifosfati – DNA Polimerasi – DNA genomico - Primer
+B) Deossinucleosidi trifosfati –Dideossinucleosidi trifosfati - DNA Polimerasi – DNA amplificato mediante PCR – Primer
+C) Dideossinucleosidi trifosfati - DNA Polimerasi – DNA amplificato mediante PCR – Primer
+D) Deossinucleosidi trifosfati –Dideossinucleosidi trifosfati - DNA Polimerasi – DNA amplificato mediante PCR – 2 Primers
+CORRETTA: B
+===
+Una reazione di Reverse Dot Blot prevede l’utilizzo di specifici reagenti. Quali delle seguenti combinazioni è corretta?
+A) DNA amplificato biotinilato-sonde oligonucleotidiche-streptavidina– fosfatasi alcalina– cromogeni
+B) DNA genomico biotinilato-sonde oligonucleotidiche-streptavidina– fosfatasi alcalina– cromogeni
+C) DNA amplificato biotinilato-sonde oligonucleotidiche-streptavidina– fosfatasi alcalina– fluorocromi
+D) DNA amplificato biotinilato-sonde oligonucleotidiche-avidina – perossidasi– cromogeni
+CORRETTA: A
+===
+Quali sono le caratteristiche di un “enhancer”?
+A) Può attivare un promotore a distanza,in entrambi gli orientamenti, sia quando è posizionato a monte che a valle o all’interno dell’unità di trascrizione
+B) E’ una sequenza di DNA che marca il confine tra regioni di eucromatina ed eterocromatina
+C) Regola la trascrizione solo dei geni “housekeeping”
+D) E’un sito di legame per l’RNA polimerasi
+CORRETTA: A
+===
+La sequenza TATA box è:
+A) Una sequenza conservata, non codificante, localizzata circa 30 paia di basi a monte del nt1 della trascrizione in molti promotori eucariotici riconosciuti dall’RNA polimerasi II
+B) Una sequenza conservata, codificante, localizzata circa 30 paia di basi a monte del nt1 della trascrizione in molti promotori eucariotici riconosciuti dall’RNA polimerasi II
+C) Una sequenza conservata, non codificante, localizzata circa 30 paia di basi a valle del nt1 della trascrizione in molti promotori eucariotici riconosciuti dalla DNA polimerasi II
+D) Una sequenza conservata, non codificante, localizzata circa 30 paia di basi a monte del nt1 della trascrizione in molti promotori eucariotici riconosciuti dalla DNA polimerasi II;
+CORRETTA: A
+===
+Quale modificazione deve subire l’RNA polimerasi per rilasciare il complesso di preinizio?
+A) Acetilazione
+B) Metilazione
+C) Fosforilazione
+D) Ubiquitinazione;
+CORRETTA: C
+===
+L’escape o fuga dal promotore negli eucarioti è associato a:
+A) Passaggio dell’RNA polimerasi dal complesso di preinizio ad un complesso che sintetizza l’RNA
+B) L’allontanamento dell’RNA polimerasi dalla regione del promotore per effettuare la sintesi del trascritto di RNA
+C) Il rilascio dell’RNA polimerasi dal complesso di preinizio che rende impossibile la sintesi del trascritto
+D) La terminazione della trascrizione causata dalla dissociazione dell’RNA polimerasi dal DNA stampo;
+CORRETTA: B
+===
+Zinc finger” (dita di zinco):
+A) E’un dominio proteico tipico di molti fattori di trascrizione che legano il DNA
+B) E’un dominio proteico tipico di molti fattori d’inizio coinvolti nel processo della traduzione
+C) E’un dominio proteico tipico delle snRNP
+D) È un dominio proteico tipico della RNA pol II;
+CORRETTA: A
+===
+In che modo gli ormoni steroidei, come gli estrogeni, modulano l’espressione genica nelle cellule sensibili?
+A) Legando gli enhancer
+B) Legando recettori nucleari che migrano in seguito nel nucleo dove legano il DNA per regolare l’espressione genica
+C) Legando e attivando recettori nel nucleo che in seguito legano il DNA per regolare l’espressione genica
+D) Attraverso il legame a recettori della membrana cellulare, che determina la liberazione di un segnale che viene trasmesso al nucleo attraverso una via di trasduzione;
+CORRETTA: B
+===
+In che modo gli ormoni steroidei, come gli estrogeni, modulano l’espressione genica nelle cellule sensibili? A) Attraverso il legame con le sequenze ERE B) Attraverso il legame nel citoplasma con recettori nucleari che dimerizzando migrano nel nucleo dove riconoscono le sequenze ERE C) Attraverso il legame e l’attivazione di recettori presenti a livello nucleare che riconosceranno le sequenze ERE D) Attraverso il legame a recettori della membrana cellulare, che determinano la liberazione di un segnale che viene trasmesso al nucleo attraverso una via di trasduzione.
+CORRETTA: 
+===
+Il primo complesso proteico a legare il promotore core di un gene codificante una proteina negli eucarioti è:
+A) L’RNA polimerasi II
+B) Il fattore generale della trascrizione TFIIB
+C) Il fattore generale della trascrizione TFIID
+D) Il fattore generale della trascrizione TFIIE
+CORRETTA: C
+===
+Quale delle seguenti affermazioni sul dominio funzionale proteico chiamato “Helix- turn-helix” (HTH elica-giro-elica) è CORRETTA?
+A) è formato da tre α eliche una delle quali lega il solco maggiore del DNA
+B) è formato da tre α eliche una delle quali lega il solco minore del DNA
+C) è presente nei recettori per gli ormoni steroidei
+D) è formato da tre foglietti â uno delle quali lega il solco maggiore del DNA
+CORRETTA: A
+===
+Il fenomeno del “genomic imprinting”:
+A) E’ una modificazione epigenetica che avviene durante la gametogenesi maschile o femminile e che provoca l’inattivazione selettiva di geni dipendente dall’origine parentale
+B) E’ una modifica del codice istonico
+C) E’ una modifica post-traduzionale che consiste nella fosforilazione dell’istone H3
+D) Prevede la metilazione delle adenine;
+CORRETTA: A
+===
+L’imprinting genomico avviene quando:
+A) Il profilo di metilazione del DNA è trasmesso alla progenie
+B) I geni vengono silenziati per errore a causa della metilazione del DNA
+C) Soltanto uno dei due geni di una coppia viene espresso, poiché l’altro è silenziato attraverso ipermetilazione
+D) La metilazione del DNA viene rimossa permettendo ai geni che dovrebbero essere silenziati di essere espressi;
+CORRETTA: C
+===
+Il rimodellamento cromatinico è necessario per:
+A) Promuovere la riparazione di regioni del DNA danneggiate
+B) Attivare una unità trascrizionale e promuovere la trascrizione
+C) Promuovere i processi di terminazione della trascrizione
+D) Promuovere l’inizio del processo di traduzione;
+CORRETTA: B
+===
+Quale delle seguenti modificazioni chimiche avviene a carico degli istoni?
+A) Metilazione delle citosine
+B) Metilazione delle lisine
+C) Metilazione delle tirosine
+D) Metilazione delle serine;
+CORRETTA: B
+===
+Quali delle seguenti affermazioni sui siti ipersensibili NON è corretta?
+A) definiscono un dominio cromosomico in cui è attiva almeno una unità trascrizionale
+B) Un gene è suscettibile alla DNAsi I in tutti i tessuti di un’organismo
+C) tutti i geni attivamente trascritti sono sensibili alla DNAsi I
+D) La Locus Control Region (LCR) dei geni beta globinici contiene diversi siti ipersensibili;
+CORRETTA: B
+===
+Indicare quale tra le seguenti definizioni riguardo gli “insulator” è FALSA:
+A) Blocca l’attività di un enhancer
+B) Isola una regione eucromatinica da una eterocromatinica
+C) Isola una sequenza intronica da una esonica
+D) Impedisce l’inattivazione di un gene posto nelle vicinanze di una regione eterocromatinica;
+CORRETTA: C
+===
+Quale delle seguenti affermazioni sulle sindromi di Prader- Willi ed Angelman è ERRATA?
+A) Possono essere causate da un meccanismo di isodisomia uniparentale o eterodisomia uniparentale del cromosoma 15
+B) Sono causate da duplicazioni segmentali
+C) Possono derivare dalla delezione di una regione del cromosoma 15 di origine materna o paterna
+D) Possono essere diagnosticate attraverso un test di metilazione del DNA;
+CORRETTA: B
+===
+La variabilità anticorpale in un individuo:
+A) È dovuta al riarrangiamento somatico nei geni codificanti le immunoglobuline
+B) È dovuta al riarrangiamento embrionale nei geni codificanti le immunoglobuline
+C) È determinata da un riarrangiamento dei segmenti Vh e Dh delle catene pesanti delle immunoglobuline
+D) È determinata da un riarrangiamento dei segmenti V e D delle catene leggere delle immunoglobuline
+CORRETTA: A
+===
+Quali delle seguenti affermazioni sulla metilazione del DNA è CORRETTA?
+A) la metilazione del DNA e’ correlata con la regolazione dell'espressione genica
+B) le isole CpG ipermetilate attivano il gene che fiancheggiano
+C) isole CpG ipermetilate sono spesso presenti nella regione 3' di geni attivamente trascritti
+D) un gruppo metilico è trasferito da S-adenosilmetionina al Carbonio 5 della guanina da una famiglia di enzimi guanina-metiltrasferasi
+CORRETTA: A
+===
+Quale tra le seguenti affermazioni è ERRATA?
+A) I Rimodellatori della cromatina sono complessi multiproteici che acetilano o deacetilano gli istoni in corrispondenza di specifiche lisine alterando la capacità di legame del DNA
+B) I modificatori della cromatina acetilano o deacetilano gli istoni in corrispondenza di specifiche lisine alterando la capacità di legame del DNA
+C) I rimodellatori della cromatina sono complessi multiproteici che utilizzano energia dell’idrolisi dell’ATP per riorganizzare la cromatina rendendola più accessibile senza modificare covalentemente gli istoni nel processo
+D) I rimodellatori della cromatina possono rimuovere o cambiare la posizione dei nucleosomi cambiando lo stato in cui si trovano i geni;
+CORRETTA: D
+===
+Quale delle seguenti affermazioni relative al processo di maturazione dell’mRNA è ERRATA?
+A) Prevede l’aggiunta del capping all’estremità 5’, della coda di poli(A) all’estremità 3’ e la rimozione degli introni
+B) la poliadenilazione ha inizio dal riconoscimento di sequenza AAUAA da CPFS
+C) La rimozione degli introni è regolata dalla presenza di un sito accettore (GU all’estremità 3’) e di un sito donatore (AG all’estremità 5’) in corrispondenza delle giunzioni esone-introne
+D) Lo spliceosoma è composto da 5 RNA e più di 200 proteine
+CORRETTA: C,C
+===
+La regolazione trascrizionale mediante splicing alternativo è mediata da:
+A) Proteine regolatorie che agiscono in trans legando sequenze regolatorie dello splicing
+B) Proteine SR che legano enhancer di splicing
+C) Proteine hnRNP che legano silenziatori di splicing
+D) Tutte le precedenti
+CORRETTA: D
+===
+L’editing dell’mRNA:
+A) è promosso da un complesso multiproteico chiamato spliceosoma che determina inserzioni estese di nt U o delezioni dello stesso nt
+B) consiste nella metilazione di basi da parte di enzimi
+C) può avvenire attraverso la deamminazione Adenosina-Inosina catalizzata dalla famiglia ADAR di adenosin-deamminasi
+D) può avvenire attraverso la deamminazione Guanidina-Uridina descritta solo in trascritto ApoB e NF1 dove la modifica porta all’inserimento di un codone di stop e alla perdita della funzione di oncosoppressione della proteina
+CORRETTA: C
+===
+Quale delle seguenti affermazioni sulla regolazione citoplasmatica della degradazione dell’mRNA è FALSA?
+A) Avviene attraverso meccanismi di controllo di qualità per evitare la produzione di proteine potenzialmente tossiche
+B) Avviene attraverso meccanismi di regolazione della vita media per regolare l’abbondanza di singole proteine
+C) Prevede la deadenilazione della coda di poli(A) e il successivo “decapping”
+D) L’mRNA della trasferrina viene degradato in assenza di ferro;
+CORRETTA: D
+===
+Il silenziamento genico è attuato attraverso:
+A) Degradazione di ssRNA
+B) Repressione traduzionale di ssRNA
+C) Modificazioni cromatiniche
+D) Tutte le precedenti
+CORRETTA: D
+===
+Quale delle seguenti affermazioni sui miRNA è ERRATA?
+A) Un singolo miRNA può regolare molti RNA messaggeri
+B) Molti miRNA possono regolare un singolo RNA messaggero
+C) funzionano sia come soppressori che come oncogeni
+D) Componenti essenziali di un sistema di difesa che garantisce integrità del genoma della linea germinale;
+CORRETTA: D
+===
+Quale delle seguenti affermazioni sui siRNA è ERRATA?
+A) Funzionano sia come soppressori che come oncogeni
+B) La somministrazione di siRNA sintetici è in grado di silenziare in vivo bersagli specifici
+C) Utilizzati in studi di genomica funzionale
+D) Permettono di chiarire il ruolo di un gene attraverso il suo silenziamento;
+CORRETTA: A
