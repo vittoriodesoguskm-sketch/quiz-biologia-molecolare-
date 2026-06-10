@@ -141,25 +141,47 @@ else:
             ):
                 selezionate.append(k)
 
-        if st.button("Conferma risposta"):
+        if if "mostra_risultato" not in st.session_state:
+    st.session_state.mostra_risultato = False
 
-            selezionate.sort()
-            corrette.sort()
+if st.button("Conferma risposta") and not st.session_state.mostra_risultato:
 
-            if selezionate == corrette:
+    selezionate.sort()
+    corrette.sort()
 
-                st.success("✔ Corretto")
-                st.session_state.punteggio += 1
+    st.session_state.risposta_corretta = (
+        selezionate == corrette
+    )
 
-            else:
+    st.session_state.corretta_testo = correte = ", ".join(corrette)
 
-                st.error(
-                    f"✘ Sbagliato - Corrette: {', '.join(corrette)}"
-                )
+    if selezionate == corrette:
+        st.session_state.punteggio += 1
 
-            st.session_state.index += 1
+    st.session_state.mostra_risultato = True
 
-            st.rerun()
+# -------------------------
+# MOSTRA RISULTATO
+# -------------------------
+if st.session_state.mostra_risultato:
+
+    if st.session_state.risposta_corretta:
+
+        st.success("✔ Corretto")
+
+    else:
+
+        st.error(
+            f"✘ Sbagliato - Corrette: {st.session_state.corretta_testo}"
+        )
+
+    if st.button("Prossima domanda"):
+
+        st.session_state.index += 1
+
+        st.session_state.mostra_risultato = False
+
+        st.rerun()
 
     else:
 
