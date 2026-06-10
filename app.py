@@ -198,7 +198,6 @@ if st.session_state.mostra_risultato:
 
         st.rerun()
 
-    else:
 
 elif st.session_state.index >= len(domande):
 
