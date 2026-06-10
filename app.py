@@ -204,7 +204,7 @@ elif st.session_state.index >= len(st.session_state.domande):
     punteggio = st.session_state.punteggio
     totale = len(st.session_state.domande)
 
-    percentuale = int((punteggio / totale) * 100)
+    percentuale = int((punteggio / totale) * 100) if totale > 0 else 0
 
     st.success("🎉 Quiz completato!")
 
