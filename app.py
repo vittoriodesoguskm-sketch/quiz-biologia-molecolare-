@@ -199,7 +199,11 @@ if st.session_state.mostra_risultato:
         st.rerun()
 
 
-elif st.session_state.index >= len(st.session_state.domande):
+elif (
+    st.session_state.quiz_avviato
+    and len(st.session_state.domande) > 0
+    and st.session_state.index >= len(st.session_state.domande)
+):
 
     punteggio = st.session_state.punteggio
     totale = len(st.session_state.domande)
