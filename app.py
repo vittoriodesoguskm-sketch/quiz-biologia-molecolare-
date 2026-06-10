@@ -200,12 +200,25 @@ if st.session_state.mostra_risultato:
 
     else:
 
-        punteggio = st.session_state.punteggio
-        totale = len(domande)
+elif st.session_state.index >= len(domande):
 
-        percentuale = int((punteggio / totale) * 100)
+    punteggio = st.session_state.punteggio
+    totale = len(domande)
 
-        st.success("🎉 Quiz completato!")
+    percentuale = int((punteggio / totale) * 100)
+
+    st.success("🎉 Quiz completato!")
+
+    st.write(f"### Punteggio: {punteggio}/{totale}")
+    st.write(f"### Percentuale: {percentuale}%")
+
+    if st.button("Torna al menu"):
+
+        st.session_state.quiz_avviato = False
+        st.session_state.index = 0
+        st.session_state.mostra_risultato = False
+
+        st.rerun()
 
         st.write(f"### Punteggio: {punteggio}/{totale}")
         st.write(f"### Percentuale: {percentuale}%")
