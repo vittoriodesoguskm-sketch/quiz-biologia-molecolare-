@@ -38,7 +38,7 @@ A) Un vettore di clonaggio che contiene i segnali per la sintesi delle proteine 
 B) Un vettore di clonaggio che contiene i segnali di trascrizione e di traduzione necessari per l’espressione di un gene clonato
 C) Un vettore di clonaggio che contiene i segnali di trascrizione necessari per l’espressione di un gene clonato
 D) Un vettore di clonaggio che contiene i segnali di trascrizione e di traduzione necessari per l’espressione del DNA batterico
-CORRETTA: C
+CORRETTA: B
 ===
 Quali dei seguenti marcatori genetici è presente in numero maggiore all’interno del genoma umano?
 A) Minisatelliti
